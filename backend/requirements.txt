@@ -1,0 +1,4 @@
+
+Authlib~=1.0.0
+Django~=4.0.3
+python-dotenv~=0.19.2
